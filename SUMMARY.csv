@@ -1,0 +1,2 @@
+nodes,links,avg_links_per_node,density,self_links_ignored,dup_links_ignored,leaf_nodes,singleton_nodes,diameter_wt,avg_shortpath_wt
+128,2106,16.453125,0.1295521654,0,0,2,0,,
