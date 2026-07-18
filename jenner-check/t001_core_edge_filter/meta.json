@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_core_edge_filter",
+  "source_file": "FoodWeb_Network_updated.sas",
+  "source_blob_sha": "67f9343ccdb3a4168b4a9a7fa42ec2aeffabeb15",
+  "source_commit": "5fc5f08e2ac842f008f4398b95b7d69109fd7c44",
+  "notes": "Core-node edge filter from FoodWeb_Network_updated.sas (lines 374-394): PROC SQL union-all degree count, degree>1 core-node selection, two inner joins to restrict the edge list to core nodes. Seeded with a 40-edge sample of foodweb-baywet.csv loaded as CacheNetwrok (the dataset name the project's pipeline uses). CAS libname 'tinubu' rewritten to WORK."
+}
