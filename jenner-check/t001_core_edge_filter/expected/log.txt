@@ -1,0 +1,34 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA CacheNetwrok
+
+NOTE: Processing inline DATALINES (40 lines)
+
+NOTE: Read 40 rows from DATALINES.
+NOTE: Wrote CacheNetwrok (40 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table node_degrees created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table degree_count created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table core_nodes created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table core_edges created.
+NOTE: PROC SQL statement used.
+NOTE: PROC PRINT data=core_edges
+
+NOTE: PROC PRINT completed: 10 observations printed, 3 variables
+NOTE: PROC SQL 
+
+NOTE: PROC SQL statement used.
